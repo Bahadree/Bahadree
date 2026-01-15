@@ -43,7 +43,6 @@ Benim için başarı sadece koddan ibaret değildir;
 ### 📊 İstatistikler
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahadree&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
   <img src="https://leetcard.jacoblin.cool/bahadree?theme=radical&font=ABeeZee&ext=heatmap" height="160" alt="leetcode" />
 </div>
 
