@@ -1,50 +1,59 @@
-<h1 align="center">Selamlar, ben [Adın]! 👋</h1>
-<h3 align="center">Full Stack Geliştirici & İçerik Üreticisi</h3>
+<h1 align="center">Bahadır KOŞAR</h1>
+<h3 align="center">Full Stack Geliştirici</h3>
 
 <p align="center">
-  <em>Kod yazıyor, içerik üretiyor ve fikirleri ürüne dönüştürüyorum.</em>
+  <em>"Teknolojiyi tüketen değil, sistem kuran zihniyet."</em>
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 Vizyon & Zihniyet
 
-- 🔭 Şu anda **[Proje Adı veya "Yeni bir Web Uygulaması"]** üzerinde çalışıyorum.
-- 🌱 **[Öğrendiğin Dil, örn: Rust veya React Native]** öğreniyorum.
-- 💡 **Web Geliştirme, Mobil Uygulamalar ve SaaS** projeleriyle ilgileniyorum.
-- 🎯 Hedefim: Kendi ürünlerimi geliştirmek ve açık kaynak dünyasına katkı sağlamak.
+16 yaşımda; **SaaS projeleri**, **sunucu mimarisi** ve **dijital ürün geliştirme** üzerine çalışıyorum. Hayal satmıyor, gerçekçi gelir modelleri ve sürdürülebilir kod yapıları kurguluyorum.
+
+Benim için başarı sadece koddan ibaret değildir;
+* 🧠 **Algoritmik Yetkinlik:** **LeetCode** üzerinde veri yapıları ve problem çözme yeteneğimi keskin tutuyorum.
+* ⚡ **Üretici Disiplini:** Tüketici değil üreticiyim. Fikirleri **React & Flutter** ile ürüne dönüştürüyorum.
+* 💪 **Bütüncül Gelişim:** Kod disiplinimi, fiziksel (fitness) ve zihinsel gelişimle destekliyorum.
 
 ---
 
-### 🛠 Yetenekler & Araçlar
+### 🏆 Başarılar & Odak
+
+| Alan | Detay |
+| :--- | :--- |
+| **🏆 Yarışma** | **Teknofest Yarı Finalisti** (Proje Geliştirme & İnovasyon) |
+| **💻 Platform** | **LeetCode** (Algoritma & Veri Yapıları Pratiği) |
+| **🛠️ Projeler** | **Linktree Katili** (SaaS), **P2P Messaging** (Rust/Flutter) |
+| **🌐 Web** | **React & Modern UI** (Landing Page & Web Apps) |
+
+---
+
+### 🛠 Yetenekler
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 İstatistikler
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahadree&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
+  <img src="https://leetcard.jacoblin.cool/bahadree?theme=radical&font=ABeeZee&ext=heatmap" height="160" alt="leetcode" />
+</div>
 
 ---
 
 ### 🔗 İletişim
 
-<a href="https://linkedin.com/in/[kullanıcıadın]">
+<a href="https://www.linkedin.com/in/bhdrksr">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/[kullanıcıadın]">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:[email@adresin.com]">
+<a href="mailto:bhdrksr@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
