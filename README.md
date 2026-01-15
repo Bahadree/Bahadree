@@ -24,7 +24,7 @@ Benim için başarı sadece koddan ibaret değildir;
 | :--- | :--- |
 | **🏆 Yarışma** | **Teknofest Yarı Finalisti** (Proje Geliştirme & İnovasyon) |
 | **💻 Platform** | **LeetCode** (Algoritma & Veri Yapıları Pratiği) |
-| **🛠️ Projeler** | **Linktree Katili** (SaaS), **P2P Messaging** (Rust/Flutter) |
+| **🛠️ Projeler** | **Model U.N.** (Community), **P2P Messaging** (Rust/Flutter) |
 | **🌐 Web** | **React & Modern UI** (Landing Page & Web Apps) |
 
 ---
